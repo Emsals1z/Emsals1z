@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jr. Software Developer</h1>
+<h1 align="center">Emsalsiz</h1>
 <h3 align="center">I am developing myself in the field of software and striving to improve even more. My goal is to become a software engineer and to be able to secure positions in major software companies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emsals1z&label=Profile%20views&color=18567b&style=flat" alt="emsals1z" /> </p>
